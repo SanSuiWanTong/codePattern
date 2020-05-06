@@ -1,0 +1,4 @@
+1: rmic MyRemoteImpl
+2. rmiregistry
+3. java proxyServer
+4. java proxyClient
